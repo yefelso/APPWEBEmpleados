@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\alumno\\source\\repos\\mvccrud\\mvccrud\\views\\home\\registroempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\home\\registroempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\alumno\\source\\repos\\mvccrud\\mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\alumno\\source\\repos\\mvccrud\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\alumno\\source\\repos\\mvccrud\\mvccrud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\alumno\\source\\repos\\mvccrud\\mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FB7B7F-7933-4255-88B7-D7C304272580}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:39:29.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T16:34:53.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\RegistroEmpleados.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Home\\RegistroEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\RegistroEmpleados.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Home\\RegistroEmpleados.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T16:36:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T16:28:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\MVCCRUD\\MVCCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T16:26:44.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
